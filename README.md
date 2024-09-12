@@ -1,4 +1,4 @@
-# firefox-homepage-wallpaper
+# custom-firefox-homepage-wallpaper
 add wallpaper in firefox homepage
 
 1) Go to about:support in the address bar. View the section "Application Basics" ➔ Profile Directory ➔ click the button "Open Directory"
